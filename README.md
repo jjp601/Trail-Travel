@@ -1,6 +1,6 @@
 # Trail Travel
 
-A Homepage for a startup using CSS Flexbox and responsive style techniques.
+A Homepage for a startup using CSS Flexbox and responsive style techniques. You may also visit the page [here](https://jjp601.github.io/Trail-Travel/).
 
 ## Getting Started
 
